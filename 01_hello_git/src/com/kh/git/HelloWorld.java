@@ -10,7 +10,7 @@ public class HelloWorld {
  * 원격저장소 등록후  push 할수있다
  * 
  * 
- * */
+ */
 	public static void main(String[] args) {
 		System.out.println("Hello world~");
 		System.out.println("Hello git~");
