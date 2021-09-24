@@ -11,5 +11,6 @@ public class HelloWorld {
 		
 	
 		new Foo().sayFoo();
+		System.out.println("Lucky you~"); //#master에서 추가
 	}
 }	
